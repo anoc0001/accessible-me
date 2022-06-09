@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: white;
   margin: 0;
   padding: 0;
 }
@@ -25,6 +25,7 @@ img {
 }
 
 .main-nav ul {
+  background-color: #6f6c6c;
   list-style: none;
   display: flex;
   flex-wrap: wrap;
@@ -39,9 +40,9 @@ img {
 
 .main-nav ul li a {
   display: block;
-  color: inherit;
+  color: white;
   text-decoration: none;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 form input,
